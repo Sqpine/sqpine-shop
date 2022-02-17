@@ -1,0 +1,30 @@
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    background: #EDF2F6;
+    animation: ease-in-out 0.3s Visibility;
+}
+
+@keyframes Visibility {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.buttons {
+    background: #EDF2F6;
+}
+
+.items {
+    min-height: 340px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 30px;
+    flex-wrap: wrap;
+}

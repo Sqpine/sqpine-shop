@@ -1,0 +1,41 @@
+.itemPhoto img {
+    width: 70px;
+    text-align: center;
+}
+
+.itemPhoto {
+    border-radius: 10px;
+
+    height: 150px;
+    width: 100px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itemBlock {
+    background: #EDF2F6;
+    border-radius: 30px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.itemBlock a {
+    text-decoration: none;
+    color: black;
+}
+
+.visibility {
+    animation: Visibility ease-in-out 0.3s;
+}
+
+@keyframes Visibility {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

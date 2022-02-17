@@ -1,0 +1,35 @@
+.emptyCart h1 {
+    text-align: right;
+    color: white;
+}
+
+.emptyCart {
+    margin: 100px 0 100px 0;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    animation: ease-in-out 0.3s Visibility;
+}
+
+@keyframes Visibility {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.emptyCartImg {
+    background: #EDF2F6;
+    border-radius: 50%;
+}
+
+.cartPage {
+    margin: 20px;
+    padding: 20px;
+    background: #EDF2F6;
+    border-radius: 15px;
+    min-height: 400px;
+}

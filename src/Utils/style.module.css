@@ -1,0 +1,14 @@
+.formik {
+    display: flex;
+    justify-content: center;
+}
+
+.field > div {
+    margin: 0 0 10px 0;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
