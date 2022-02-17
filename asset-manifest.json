@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/sqpine-shop/static/css/main.287c0e8b.css",
+    "main.js": "/sqpine-shop/static/js/main.5b4da84d.js",
+    "static/css/432.8489277b.chunk.css": "/sqpine-shop/static/css/432.8489277b.chunk.css",
+    "static/js/432.01d68678.chunk.js": "/sqpine-shop/static/js/432.01d68678.chunk.js",
+    "static/css/993.fbd8dc80.chunk.css": "/sqpine-shop/static/css/993.fbd8dc80.chunk.css",
+    "static/js/993.fcac6bff.chunk.js": "/sqpine-shop/static/js/993.fcac6bff.chunk.js",
+    "static/css/584.55a18dc8.chunk.css": "/sqpine-shop/static/css/584.55a18dc8.chunk.css",
+    "static/js/584.3f0da195.chunk.js": "/sqpine-shop/static/js/584.3f0da195.chunk.js",
+    "static/css/510.46c83138.chunk.css": "/sqpine-shop/static/css/510.46c83138.chunk.css",
+    "static/js/510.196dc3af.chunk.js": "/sqpine-shop/static/js/510.196dc3af.chunk.js",
+    "static/js/787.9dc718f6.chunk.js": "/sqpine-shop/static/js/787.9dc718f6.chunk.js",
+    "static/js/151.980f04bf.chunk.js": "/sqpine-shop/static/js/151.980f04bf.chunk.js",
+    "static/js/648.c908ebd3.chunk.js": "/sqpine-shop/static/js/648.c908ebd3.chunk.js",
+    "static/js/882.98ddb51d.chunk.js": "/sqpine-shop/static/js/882.98ddb51d.chunk.js",
+    "static/media/logo.png": "/sqpine-shop/static/media/logo.ce7a66cc4b83bcbddde7.png",
+    "static/media/success.png": "/sqpine-shop/static/media/success.3aa038bb51cf7a159423.png",
+    "index.html": "/sqpine-shop/index.html",
+    "main.287c0e8b.css.map": "/sqpine-shop/static/css/main.287c0e8b.css.map",
+    "main.5b4da84d.js.map": "/sqpine-shop/static/js/main.5b4da84d.js.map",
+    "432.8489277b.chunk.css.map": "/sqpine-shop/static/css/432.8489277b.chunk.css.map",
+    "432.01d68678.chunk.js.map": "/sqpine-shop/static/js/432.01d68678.chunk.js.map",
+    "993.fbd8dc80.chunk.css.map": "/sqpine-shop/static/css/993.fbd8dc80.chunk.css.map",
+    "993.fcac6bff.chunk.js.map": "/sqpine-shop/static/js/993.fcac6bff.chunk.js.map",
+    "584.55a18dc8.chunk.css.map": "/sqpine-shop/static/css/584.55a18dc8.chunk.css.map",
+    "584.3f0da195.chunk.js.map": "/sqpine-shop/static/js/584.3f0da195.chunk.js.map",
+    "510.46c83138.chunk.css.map": "/sqpine-shop/static/css/510.46c83138.chunk.css.map",
+    "510.196dc3af.chunk.js.map": "/sqpine-shop/static/js/510.196dc3af.chunk.js.map",
+    "787.9dc718f6.chunk.js.map": "/sqpine-shop/static/js/787.9dc718f6.chunk.js.map",
+    "151.980f04bf.chunk.js.map": "/sqpine-shop/static/js/151.980f04bf.chunk.js.map",
+    "648.c908ebd3.chunk.js.map": "/sqpine-shop/static/js/648.c908ebd3.chunk.js.map",
+    "882.98ddb51d.chunk.js.map": "/sqpine-shop/static/js/882.98ddb51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287c0e8b.css",
+    "static/js/main.5b4da84d.js"
+  ]
+}
